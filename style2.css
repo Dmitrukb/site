@@ -1,0 +1,192 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 auto;
+  padding: 0auto;
+}
+.outer{
+  background-image: url(img/sto2.jpeg); 
+  
+  height: 50vh;
+  
+}
+.outer {
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+.inner {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    
+}
+.icon{
+				width: 30px;
+				height: 30px;
+}
+.nav{
+     background: white;
+				display:flex;
+				justify-content: space-between;
+				align-items:center;
+				padding-left:15px;
+				padding-right:15px;
+				padding-top:5px;
+				padding-bottom:5px;
+}
+.icon1 {
+				width:140px;
+				height: 60px;
+}
+h2{
+				
+				line-height: 1.5em;
+				color: white;
+    text-align: center;
+				
+				
+				
+}
+				
+.h4{
+				color:black;
+}
+.offer{
+				margin-top:30px;
+				margin-bottom: 50px;
+}
+.usl{
+    padding: 20px;
+    border-radius: 5px;
+				margin: 0 auto;
+				width: 90%;
+				background:#F9F9F9;
+				
+				
+	
+}
+h4{
+				font-weight: 500;
+				margin-bottom:15px;
+				font-size: 20px;
+}
+.l1{
+  margin: 0 auto;
+  width:250px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: #ffffff;
+  margin-bottom:15px;
+  border-radius: 15px;
+		
+
+						
+}
+.l2{
+  margin: 0 auto;
+  width:250px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: #ffffff;
+  margin-bottom:15px;
+  border-radius: 15px;
+		
+
+						
+}
+.l3{
+  margin: 0 auto;
+  width:250px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: #ffffff;
+  margin-bottom:15px;
+  border-radius: 15px;
+		
+
+						
+}
+.master{
+				text-align:center;
+}
+.aboutus{
+				color:black;
+				font-weight: 700;
+				margin-bottom:50px
+}
+.description{
+    margin: 0 auto;
+				width:320px;
+				text-align:center;
+				font-size:16px;
+				line-height: 2.0em;
+}
+.perh {
+				color: black;
+				
+}
+.con{
+    margin: 0 auto;
+				padding:20px;
+				background:#F9F9F9;
+}
+.per1{
+    padding-top: 5px;
+    padding-left:5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    margin: 0 auto;
+				width: 300px;
+				background: white;
+				text-align: center;
+				margin-bottom: 15px;
+}
+per2{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0 auto;
+				width: 300px;
+				background: white;
+				text-align: center;
+}
+per3{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0 auto;
+				width: 300px;
+				background: white;
+				text-align: center;
+}
+
+.per{
+    padding:20px;
+				background:#F9F9F9;
+				margin-top:50px;
+}
+.de{
+				line-height: 1.7em;
+}
+.de2{
+				line-height: 1.7em;
+}
+.de3{
+				line-height: 1.7em;
+}
+.contact {
+    padding-top: 10px;
+    padding-bottom: 40px;
+				width: 320px;
+				margin: 0 auto;
+				
+}
+.offer2 {
+				display: flex;
+				
+}
+.pet {
+				margin-right: 15px;
+}
